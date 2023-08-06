@@ -1,4 +1,4 @@
-# Hi 👋 I'm TP
+# Hi 👋 I'm T P
 ## IT Developer 👩🏻‍💻
 
 👩🏻‍🎓 As a graduate with an MSc in Information Technology and a BE in Computer Engineering, I am results-driven and commercially aware.
