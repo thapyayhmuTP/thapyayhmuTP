@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi 👋 I'm TP
+## IT Developer 👩🏻‍💻
+
+👩🏻‍🎓 As a graduate with an MSc in Information Technology and a BE in Computer Engineering, I am results-driven and commercially aware.
+Using an innovative approach, I am proficient in data analysis, design, programming, and problem-solving. My skill set includes knowledge of a variety of platforms, languages, and embedded systems. Additionally, I am an experienced Project Manager who is capable of leading from the front.☺️ Currently, I am seeking a new challenge as a software developer.🙋🏻‍♀️
+
+I have experience with HTML, CSS, JavaScript, Java,MySQL and C++. I'm also somewhat familiar with Python. As well as learning React and Vue.js through an online website, I am always looking to expand my skill set by learning new languages. 😊
+
+These days, I've been trying to recall my projects and add them to GitHub. In the past 8 years, I have worked on numerous projects, including websites and C++ software, both individually and in groups. My biggest regret is that I didn't save my work anywhere, not even in the cloud or drive. The data was lost due to damaged hard drives or getting a new computer. There are currently a few repositories I'm adding, and more will be added in the near future.👩🏻‍💻
+
 
 <!--
 **thapyayhmuTP/thapyayhmuTP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
