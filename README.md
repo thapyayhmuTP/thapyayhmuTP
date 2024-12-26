@@ -1,12 +1,18 @@
 # Hi 👋 I'm T P
-## IT Developer 👩🏻‍💻
+## MSc in Data Analytics Candidate | Aspiring Data Analyst | Skilled in SQL, Python, and Visualization Tools 👩🏻‍💻
 
-👩🏻‍🎓 As a graduate with an MSc in Information Technology and a BE in Computer Engineering, I am results-driven and commercially aware.
-Using an innovative approach, I am proficient in data analysis, design, programming, and problem-solving. My skill set includes knowledge of a variety of platforms, languages, and embedded systems. Additionally, I am an experienced Project Manager who is capable of leading from the front.☺️ Currently, I am seeking a new challenge as a software developer.🙋🏻‍♀️
+👩🏻‍🎓 With an MSc in Information Technology and a BE in Computer Engineering, I am now pursuing a Master’s in Data Analytics to further specialize in transforming raw data into actionable insights.👩🏻‍💻
 
-I have experience with HTML, CSS, JavaScript, Java,MySQL and C++. I'm also somewhat familiar with Python. As well as learning React and Vue.js through an online website, I am always looking to expand my skill set by learning new languages. 😊
+I have a strong foundation in software development and project management, which complements my growing expertise in data analytics.😊
 
-These days, I've been trying to recall my projects and add them to GitHub. In the past 8 years, I have worked on numerous projects, including websites and C++ software, both individually and in groups. My biggest regret is that I didn't save my work anywhere, not even in the cloud or drive. The data was lost due to damaged hard drives or getting a new computer. Although I have added only a few repositories so far, more will be added in the future.👩🏻‍💻
+My current focus is on:
+Specializations: Marketing Analytics, Operational Analytics, Predictive Analytics, Data Warehousing, and Visualization.
+Skills: Proficient in SQL, Python, Tableau, Power BI, and data modeling, with a solid background in programming languages like Java, C++, and JavaScript.
+Projects: Developing dashboards, predictive models, and analytical tools to solve real-world business problems.
+
+These days, I’ve been building my portfolio by working on data analytics projects, including Retail Sales Analytics.😊 My GitHub profile showcases the beginning of this journey, with plans to expand it further.😊
+
+As a results-oriented individual, I’m excited to merge my technical background with advanced data analytics to contribute to impactful business decisions. Let’s connect and explore opportunities in this dynamic field! 😊.
 
 
 <!--
